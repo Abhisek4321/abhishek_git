@@ -1,8 +1,2 @@
-Welcome!
-
-This is my first online Reposoitory.
-
+This is my first online reposoitory.
 Math Game Project using HTML, CSS and JavaScript. 
-
-Abhishek and Nitin
-
